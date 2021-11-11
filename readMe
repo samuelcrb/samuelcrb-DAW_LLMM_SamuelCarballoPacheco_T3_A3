@@ -1,0 +1,10 @@
+Hacer 4 ”tarjetas” de 400px de ancho, separadas entre sí por 24px con una imagen diferente cada una, un título de imagen y un párrafo describiendo dicha imagen.
+La 1a y 4a tarjeta tienen el fondo de color "lightgray" mientras que las otras dos tienen el fondo de color blanco (escrito en hexadecimal).
+Todas ellas están limitadas por un borde de 1px gris.
+Las tarjetas tienen un margen interior: 
+Superior de8px
+Lateral de12px
+Inferior de 16px
+El título de las tarjetas pares está escrito con la tipografía Arial, y las impares usa la familia tipográfica Times. Todos ellos tienen un tamaño de 24px y un peso de 700.
+El tamaño de los párrafos es de 16px y un peso normal.
+
